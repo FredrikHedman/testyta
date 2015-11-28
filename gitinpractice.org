@@ -1,0 +1,5 @@
+* THis is the first structire
+drwxr-xr-x   4 hedman  staff  136 28 Nov 22:39 .
+drwxr-xr-x   6 hedman  staff  204 28 Nov 21:35 ..
+drwxr-xr-x  10 hedman  staff  340 28 Nov 22:39 .git
+-rw-r--r--   1 hedman  staff    0 28 Nov 22:44 gitinpractice.org
