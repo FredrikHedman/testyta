@@ -8,4 +8,8 @@ drwxr-xr-x  10 hedman  staff  340 28 Nov 22:39 .git
    + more text
    + another bullet point
    + ...
- 
+
+* This is the third chapter
+   + a
+   + b
+   + c
